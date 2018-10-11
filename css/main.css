@@ -12,6 +12,7 @@ html, body {
 
 a{
      transition: 0.3s ease-out;
+    cursor: pointer;
 }
 
 img{
@@ -316,7 +317,7 @@ p.footer-social-icons a:hover {
 .button:hover{
     color:#061634;
     background-color: #fff;
-    
+    cursor: pointer;
 }
 
 
